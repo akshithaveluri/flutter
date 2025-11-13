@@ -1,0 +1,6 @@
+void main() {
+  String name = "Akshitha";
+  int age = 20;
+  int yearsTo100 = 100 - age;
+  print("Hello $name! You will be 100 years old in $yearsTo100 years.");
+}
